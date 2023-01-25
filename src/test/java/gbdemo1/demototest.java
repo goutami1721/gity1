@@ -7,6 +7,7 @@ public class demototest {
 	public void print()
 	{
 		System.out.println("hello");
+		System.out.println("hello1");
 	}
 
 }
