@@ -18,5 +18,10 @@ public class demototest {
 		System.out.println("Apitest");
 		
 	}
+	@Test
+	public void homeloan()
+	{
+		System.out.println("homeloan");
+	}
 
 }
