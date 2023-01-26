@@ -15,6 +15,8 @@ public class demototest {
 	{
 		System.out.println("welcome");
 		System.out.println("seleniumtest");
+		System.out.println("Apitest");
+		
 	}
 
 }
