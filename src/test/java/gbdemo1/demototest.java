@@ -10,5 +10,11 @@ public class demototest {
 		System.out.println("bye");
 		
 	}
+	@Test 
+	public void display()
+	{
+		System.out.println("welcome");
+		System.out.println("seleniumtest");
+	}
 
 }
